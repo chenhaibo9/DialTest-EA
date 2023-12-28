@@ -1,0 +1,101 @@
+/home/ubuntu/Desktop/DialTest-master/data/atis/original/atis_lstm_original-test-set
+avg_gini:  0.019116380979312998   intent_accuracy: 0.9822904368358913  intent_TP: 0.9822904368358913  intent_FP: 0.01770956316410862  intent_FN: 0.01770956316410862  intent_precision: 0.9822904368358913  intent_recall: 0.9822904368358913  intent_F1:0.9822904368358913
+slot_accuracy: 0.9294360087670844  slot_TP: 3.074380165289256  slot_FP: 0.20543093270365997  slot_FN: 0.16765053128689492  slot_precision: 0.9288848597290158  slot_recall: 0.9315891539917514  slot_F1:0.9302350414452781
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini/atis_lstm_random
+avg_gini:  0.22950224020019003   intent_accuracy: 0.7404921700223713  intent_TP: 0.7404921700223713  intent_FP: 0.2595078299776286  intent_FN: 0.2595078299776286  intent_precision: 0.7404921700223713  intent_recall: 0.7404921700223713  intent_F1:0.7404921700223713
+slot_accuracy: 0.6714559730254818  slot_TP: 1.6427503736920777  slot_FP: 0.8146487294469357  slot_FN: 0.3721973094170404  slot_precision: 0.6403961136023916  slot_recall: 0.7358281728236882  slot_F1:0.6848033519000818
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini/atis_lstm_DialTest
+avg_gini:  0.41064318275487444   intent_accuracy: 0.6342281879194631  intent_TP: 0.6342281879194631  intent_FP: 0.36577181208053694  intent_FN: 0.36577181208053694  intent_precision: 0.6342281879194631  intent_recall: 0.6342281879194631  intent_F1:0.6342281879194631
+slot_accuracy: 0.5846932620905239  slot_TP: 1.0684931506849316  slot_FP: 1.1232876712328768  slot_FN: 0.4246575342465753  slot_precision: 0.5377763281872868  slot_recall: 0.7014024787997393  slot_F1:0.6087864761785493
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini_energy/atis_lstm_DialTest-EA
+avg_gini:  0.5704895369261165   intent_accuracy: 0.5540691192865106  intent_TP: 0.5540691192865106  intent_FP: 0.4459308807134894  intent_FN: 0.4459308807134894  intent_precision: 0.5540691192865106  intent_recall: 0.5540691192865106  intent_F1:0.5540691192865106
+slot_accuracy: 0.5385292729632358  slot_TP: 0.940251572327044  slot_FP: 1.25  slot_FN: 0.41352201257861637  slot_precision: 0.4904350104821798  slot_recall: 0.6480083857442348  slot_F1:0.5583167340746885
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/original/atis_lstm_original-test-set
+avg_gini:  0.019116380979312998   intent_accuracy: 0.9822904368358913  intent_TP: 0.9822904368358913  intent_FP: 0.01770956316410862  intent_FN: 0.01770956316410862  intent_precision: 0.9822904368358913  intent_recall: 0.9822904368358913  intent_F1:0.9822904368358913
+slot_accuracy: 0.9294360087670844  slot_TP: 3.074380165289256  slot_FP: 0.20543093270365997  slot_FN: 0.16765053128689492  slot_precision: 0.9288848597290158  slot_recall: 0.9315891539917514  slot_F1:0.9302350414452781
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini/snips_lstm_random
+avg_gini:  0.0706882539551102   intent_accuracy: 0.7671428571428571  intent_TP: 0.7671428571428571  intent_FP: 0.23285714285714285  intent_FN: 0.23285714285714285  intent_precision: 0.7671428571428571  intent_recall: 0.7671428571428571  intent_F1:0.7671428571428571
+slot_accuracy: 0.5680334913540304  slot_TP: 1.5182341650671785  slot_FP: 1.1401151631477926  slot_FN: 0.3781190019193858  slot_precision: 0.5275751759436982  slot_recall: 0.654222648752399  slot_F1:0.5841128182997899
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini/snips_lstm_DialTest
+avg_gini:  0.16448842662355714   intent_accuracy: 0.7528571428571429  intent_TP: 0.7528571428571429  intent_FP: 0.24714285714285714  intent_FN: 0.24714285714285714  intent_precision: 0.7528571428571429  intent_recall: 0.7528571428571429  intent_F1:0.752857142857143
+slot_accuracy: 0.5238970040139632  slot_TP: 1.206627680311891  slot_FP: 1.253411306042885  slot_FN: 0.43079922027290446  slot_precision: 0.4788932207060864  slot_recall: 0.6157894736842108  slot_F1:0.5387815224278956
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini_energy/snips_lstm_DialTest-EA
+avg_gini:  0.45264437714936023   intent_accuracy: 0.5543624161073826  intent_TP: 0.5543624161073826  intent_FP: 0.44563758389261743  intent_FN: 0.44563758389261743  intent_precision: 0.5543624161073826  intent_recall: 0.5543624161073826  intent_F1:0.5543624161073826
+slot_accuracy: 0.3454370652689993  slot_TP: 0.9109243697478991  slot_FP: 1.7142857142857142  slot_FN: 0.4470588235294118  slot_precision: 0.276746698679472  slot_recall: 0.5100280112044817  slot_F1:0.35880301326847663
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/original/facebook_lstm_original-test-set
+avg_gini:  0.009970814798087707   intent_accuracy: 0.9898976293103449  intent_TP: 0.9898976293103449  intent_FP: 0.010102370689655173  intent_FN: 0.010102370689655173  intent_precision: 0.9898976293103449  intent_recall: 0.9898976293103449  intent_F1:0.9898976293103449
+slot_accuracy: 0.8451194810637211  slot_TP: 1.636584051724138  slot_FP: 0.20595366379310345  slot_FN: 0.13941271551724138  slot_precision: 0.8428632363505761  slot_recall: 0.854779864532021  slot_F1:0.8487797259767981
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini/facebook_lstm_random
+avg_gini:  0.23736750288211442   intent_accuracy: 0.6753276882032246  intent_TP: 0.6753276882032246  intent_FP: 0.3246723117967753  intent_FN: 0.3246723117967753  intent_precision: 0.6753276882032246  intent_recall: 0.6753276882032246  intent_F1:0.6753276882032246
+slot_accuracy: 0.43383175725436207  slot_TP: 0.7730367680435769  slot_FP: 0.7461037978514148  slot_FN: 0.618550461491905  slot_precision: 0.4354775954866742  slot_recall: 0.44985877843345135  slot_F1:0.44255138478800643
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini/facebook_lstm_DialTest
+avg_gini:  0.3426770865869961   intent_accuracy: 0.6147512466658935  intent_TP: 0.6147512466658935  intent_FP: 0.38524875333410646  intent_FN: 0.38524875333410646  intent_precision: 0.6147512466658935  intent_recall: 0.6147512466658935  intent_F1:0.6147512466658935
+slot_accuracy: 0.3676187412086568  slot_TP: 0.5940610484406105  slot_FP: 0.5857664233576643  slot_FN: 0.5182481751824818  slot_precision: 0.3712832179985459  slot_recall: 0.3793021455430218  slot_F1:0.3752498464038243
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini_energy/facebook_lstm_DialTest-EA
+avg_gini:  0.482344862574277   intent_accuracy: 0.5035954534910694  intent_TP: 0.5035954534910694  intent_FP: 0.4964045465089306  intent_FN: 0.4964045465089306  intent_precision: 0.5035954534910694  intent_recall: 0.5035954534910694  intent_F1:0.5035954534910694
+slot_accuracy: 0.3636515864814206  slot_TP: 0.5583878746124699  slot_FP: 0.5425421977264898  slot_FN: 0.48415432311401996  slot_precision: 0.3701548480225707  slot_recall: 0.3738115742335517  slot_F1:0.3719742244008501
+
+
+
+
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/original/atis_blstm_original-test-set
+avg_gini:  0.008784821008609695   intent_accuracy: 0.9834710743801653  intent_TP: 0.9834710743801653  intent_FP: 0.01652892561983471  intent_FN: 0.01652892561983471  intent_precision: 0.9834710743801653  intent_recall: 0.9834710743801653  intent_F1:0.9834710743801653
+slot_accuracy: 0.9370859496581859  slot_TP: 3.094451003541913  slot_FP: 0.17355371900826447  slot_FN: 0.14757969303423848  slot_precision: 0.9370790464946308  slot_recall: 0.937992635070557  slot_F1:0.9375356182193463
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini/atis_blstm_random
+avg_gini:  0.13217225579924283   intent_accuracy: 0.7637178051511758  intent_TP: 0.7637178051511758  intent_FP: 0.23628219484882418  intent_FN: 0.23628219484882418  intent_precision: 0.7637178051511758  intent_recall: 0.7637178051511758  intent_F1:0.7637178051511757
+slot_accuracy: 0.7394618249786205  slot_TP: 2.4370477568740956  slot_FP: 0.5716353111432706  slot_FN: 0.5123010130246021  slot_precision: 0.7355695679139967  slot_recall: 0.7469521554181471  slot_F1:0.7412171647352782
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini/atis_blstm_DialTest
+avg_gini:  0.2947072810392475   intent_accuracy: 0.6416573348264277  intent_TP: 0.6416573348264277  intent_FP: 0.3583426651735722  intent_FN: 0.3583426651735722  intent_precision: 0.6416573348264277  intent_recall: 0.6416573348264277  intent_F1:0.6416573348264277
+slot_accuracy: 0.6233062269082558  slot_TP: 1.9850498338870433  slot_FP: 0.8903654485049833  slot_FN: 0.6561461794019934  slot_precision: 0.6125533934504038  slot_recall: 0.6424562425392997  slot_F1:0.6271485735653307
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/gen_data/gini_energy/atis_blstm_DialTest-EA
+avg_gini:  0.5179587813739699   intent_accuracy: 0.4015659955257271  intent_TP: 0.4015659955257271  intent_FP: 0.598434004474273  intent_FN: 0.598434004474273  intent_precision: 0.4015659955257271  intent_recall: 0.4015659955257271  intent_F1:0.40156599552572714
+slot_accuracy: 0.520325484764543  slot_TP: 1.2417763157894737  slot_FP: 0.9588815789473685  slot_FN: 0.7417763157894737  slot_precision: 0.5170595760233919  slot_recall: 0.528015350877193  slot_F1:0.5224800374229535
+
+/home/ubuntu/Desktop/DialTest-master/data/atis/original/snips_blstm_original-test-set
+avg_gini:  0.0021117014297029803   intent_accuracy: 0.9870875179340028  intent_TP: 0.9870875179340028  intent_FP: 0.01291248206599713  intent_FN: 0.01291248206599713  intent_precision: 0.9870875179340028  intent_recall: 0.9870875179340028  intent_F1:0.9870875179340028
+slot_accuracy: 0.9472797248980891  slot_TP: 2.461979913916786  slot_FP: 0.16212338593974174  slot_FN: 0.10043041606886657  slot_precision: 0.9442713670834185  slot_recall: 0.9528933524629365  slot_F1:0.948562767739044
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini/snips_blstm_random
+avg_gini:  0.07471484719138448   intent_accuracy: 0.8528571428571429  intent_TP: 0.8528571428571429  intent_FP: 0.14714285714285713  intent_FN: 0.14714285714285713  intent_precision: 0.8528571428571429  intent_recall: 0.8528571428571429  intent_F1:0.8528571428571429
+slot_accuracy: 0.6191352597542148  slot_TP: 1.6247582205029014  slot_FP: 1.02321083172147  slot_FN: 0.4119922630560928  slot_precision: 0.5840655798102604  slot_recall: 0.6930689877498398  slot_F1:0.6339155645155947
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini/snips_blstm_DialTest
+avg_gini:  0.190674463522131   intent_accuracy: 0.6885714285714286  intent_TP: 0.6885714285714286  intent_FP: 0.31142857142857144  intent_FN: 0.31142857142857144  intent_precision: 0.6885714285714286  intent_recall: 0.6885714285714286  intent_F1:0.6885714285714286
+slot_accuracy: 0.4033610633008222  slot_TP: 0.963855421686747  slot_FP: 1.2469879518072289  slot_FN: 0.5381526104417671  slot_precision: 0.3764390896921017  slot_recall: 0.4650937081659971  slot_F1:0.41609656229478115
+
+/home/ubuntu/Desktop/DialTest-master/data/snips/gen_data/gini_energy/snips_blstm_DialTest-EA
+avg_gini:  0.43918684601949365   intent_accuracy: 0.5009708737864078  intent_TP: 0.5009708737864078  intent_FP: 0.49902912621359224  intent_FN: 0.49902912621359224  intent_precision: 0.5009708737864078  intent_recall: 0.5009708737864078  intent_F1:0.5009708737864078
+slot_accuracy: 0.2573924731182796  slot_TP: 0.5295698924731183  slot_FP: 1.4086021505376345  slot_FN: 0.5967741935483871  slot_precision: 0.22051971326164896  slot_recall: 0.33490143369175623  slot_F1:0.2659328638591313
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/original/facebook_blstm_original-test-set
+avg_gini:  0.008616562600615597   intent_accuracy: 0.9920528017241379  intent_TP: 0.9920528017241379  intent_FP: 0.007947198275862068  intent_FN: 0.007947198275862068  intent_precision: 0.9920528017241379  intent_recall: 0.9920528017241379  intent_F1:0.9920528017241379
+slot_accuracy: 0.8864471084770141  slot_TP: 1.6981411637931034  slot_FP: 0.08809267241379311  slot_FN: 0.07785560344827586  slot_precision: 0.88810614224138  slot_recall: 0.8893973214285725  slot_F1:0.8887512628784517
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini/facebook_blstm_random
+avg_gini:  0.19275154997026184   intent_accuracy: 0.7702122723581951  intent_TP: 0.7702122723581951  intent_FP: 0.22978772764180488  intent_FN: 0.22978772764180488  intent_precision: 0.7702122723581951  intent_recall: 0.7702122723581951  intent_F1:0.7702122723581951
+slot_accuracy: 0.5264715283034719  slot_TP: 0.8501135503406511  slot_FP: 0.3996971990915973  slot_FN: 0.4155942467827404  slot_precision: 0.53565877221441  slot_recall: 0.5296240222054011  slot_F1:0.5326243039986653
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini/facebook_blstm_DialTest
+avg_gini:  0.30372212681590094   intent_accuracy: 0.6837953833661988  intent_TP: 0.6837953833661988  intent_FP: 0.31620461663380117  intent_FN: 0.31620461663380117  intent_precision: 0.6837953833661988  intent_recall: 0.6837953833661988  intent_F1:0.6837953833661988
+slot_accuracy: 0.45162351612467677  slot_TP: 0.7226604795050271  slot_FP: 0.40634184068058776  slot_FN: 0.45382830626450116  slot_precision: 0.461899974220159  slot_recall: 0.4542278937870587  slot_F1:0.4580318092204713
+
+/home/ubuntu/Desktop/DialTest-master/data/facebook/gen_data/gini_energy/facebook_blstm_DialTest-EA
+avg_gini:  0.42199803387976587   intent_accuracy: 0.586174901414985  intent_TP: 0.586174901414985  intent_FP: 0.4138250985850151  intent_FN: 0.4138250985850151  intent_precision: 0.586174901414985  intent_recall: 0.586174901414985  intent_F1:0.586174901414985
+slot_accuracy: 0.43589120820898886  slot_TP: 0.7242847411444142  slot_FP: 0.348433242506812  slot_FN: 0.3503065395095368  slot_precision: 0.44389191643960035  slot_recall: 0.4416865349682104  slot_F1:0.44278647964147205
+
+
